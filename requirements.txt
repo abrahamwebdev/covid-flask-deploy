@@ -2,5 +2,6 @@ Flask==2.0.1
 pandas==1.2.5
 matplotlib==3.4.2
 numpy==1.21.0
+pystan~=2.14
 fbprophet==0.7.1
 gunicorn
