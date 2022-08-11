@@ -2,7 +2,7 @@
 
 This is a flask web app for predicting covid cases.
 
-### [Click here](https://covid-flask-deploy.herokuapp.com/) to use this app.
+### [Click here](https://covid-flask-deploy.herokuapp.com/) to use this.
 
 ### Step 1:Select the place
 <img src="https://drive.google.com/uc?export=view&id=1Y1vVE1OU2NQOWziv44jEBwv0O4Z_ZQG2" >
